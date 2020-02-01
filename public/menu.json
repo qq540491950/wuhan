@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "疫情地图",
+    "icon": "el-icon-monitor",
+    "path": "/yqmap",
+    "child": []
+  },
+  {
+    "id": "2",
+    "name": "抗击疫情",
+    "icon": "el-icon-monitor",
+    "path": "/kjyq",
+    "child": []
+  },
+  {
+    "id": "3",
+    "name": "实时播报",
+    "icon": "el-icon-monitor",
+    "path": "/ssbb",
+    "child": []
+  },
+  {
+    "id": "4",
+    "name": "同程查询",
+    "icon": "el-icon-monitor",
+    "path": "/tccx",
+    "child": []
+  }
+]
